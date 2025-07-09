@@ -1,0 +1,6 @@
+*__pycache__
+
+clamp_sander-wood/
+results/
+
+nohup*.out
