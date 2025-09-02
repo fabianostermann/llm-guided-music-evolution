@@ -23,3 +23,11 @@ bash run.sh --test-mode
 
 In the current stage of development, this project uses the CLaMP model (v1) as fitness function for the evolutionary algorithm:\
 <https://github.com/microsoft/muzic/tree/main/clamp>
+
+## The evolutionary algorithm
+
+Schematic visualization of our implemention:
+
+<img align="center" src="img/LLM-guided-EA.png" width="50%" />
+
+Further details can be found in the paper (see link above).
