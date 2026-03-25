@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16946592.svg)](https://doi.org/10.5281/zenodo.16946592)
+
 # LLM guided music evolution
 
 This code was used for the [AIMC'25](https://aimusiccreativity.org/2025/) paper "[Using Large Language Models as Fitness Functions in Evolutionary Algorithms for Music Generation](https://doi.org/10.5281/zenodo.16946592)".
@@ -31,3 +33,17 @@ Schematic visualization of our implemention:
 <img align="center" src="img/LLM-guided-EA.png" width="50%" />
 
 Further details can be found in the paper (see link above).
+
+## Citation
+
+If you use this code, please cite the accompanying paper:
+```bibtex
+@inproceedings{ostermann2025llm4musicevo,
+  title     = {Using Large Language Models as Fitness Functions
+               in Evolutionary Algorithms for Music Generation},
+  author    = {Ostermann, Fabian and Kramer, Jonas and Rudolph, G{\"u}nter},
+  booktitle = {Proceedings of the AI Music Creativity Conference (AIMC)},
+  year      = {2025},
+  doi       = {10.5281/zenodo.16946592}
+}
+```
