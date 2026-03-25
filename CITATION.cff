@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "LLM-Guided Music Evolution"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2025-07-14
+url: "https://github.com/fabianostermann/llm-guided-music-evolution"
+doi: 10.5281/zenodo.15880276
+authors:
+  - family-names: Ostermann
+    given-names: Fabian
+  - family-names: Kramer
+    given-names: Jonas
+preferred-citation:
+  type: conference-paper
+  title: "Using Large Language Models as Fitness Functions in Evolutionary Algorithms for Music Generation"
+  authors:
+    - family-names: Ostermann
+      given-names: Fabian
+      orcid: "https://orcid.org/0000-0002-8365-3634"
+    - family-names: Kramer
+      given-names: Jonas
+      orcid: "https://orcid.org/0009-0009-9573-0180"
+    - family-names: Rudolph
+      given-names: Günter
+      orcid: "https://orcid.org/0000-0003-4223-5257"
+  doi: 10.5281/zenodo.16946592
+  year: 2025
+  collection-title: "Proceedings of the AI Music Creativity Conference (AIMC)"
+  conference:
+    name: "The AI Music Creativity Conference (AIMC)"
+    city: Brussels
+    country: BE
+    date-start: 2025-09-10
+    date-end: 2025-09-12
